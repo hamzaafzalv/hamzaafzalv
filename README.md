@@ -1,4 +1,4 @@
-# Hamza Afzal | Data Analyst
+## 🙋🏻‍♂️ My Introduction 
 
 ![Profile Picture](https://media.licdn.com/dms/image/D4E16AQF8Idcz8FBNdw/profile-displaybackgroundimage-shrink_350_1400/0/1675851602657?e=1697068800&v=beta&t=iVATQtokEIkBiauYVFttrUq-MwdDse841G8ZPKsQCBY)
 
@@ -19,9 +19,9 @@ Hey there! 👋 I'm Hamza, a passionate and detail-oriented Data Analyst. With a
 
 ## Projects
 
-- 📊 [Project 1](link_to_project_1): Analyzed sales data to identify seasonal trends and recommend inventory management strategies.
-- 📈 [Project 2](link_to_project_2): Conducted A/B testing on a website's user interface changes to determine their impact on user engagement.
-- 📊 [Project 3](link_to_project_3): Created a dashboard using Tableau to visualize customer demographics and purchasing behavior.
+- 📊 [Project 1](link_to_project_1): 
+- 📈 [Project 2](link_to_project_2): 
+- 📊 [Project 3](link_to_project_3):
 
 ## Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
