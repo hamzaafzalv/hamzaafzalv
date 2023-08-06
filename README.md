@@ -20,8 +20,8 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 ## 📂 Projects
 #### *Click the hyperlinks for more information*
 - 📊 **1.** [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
-- 📈 [Project 2](link_to_project_2): 
-- 📊 [Project 3](link_to_project_3):
+- 📈 **2.** [Project 2](link_to_project_2): 
+- 📊 **3.** [Project 3](link_to_project_3):
 
 ## 🤝🏻 Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
