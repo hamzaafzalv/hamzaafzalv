@@ -11,7 +11,7 @@ Hey there! 👋 I'm Hamza, a passionate and detail-oriented Data Analyst. With a
 - 📊 Visualization enthusiast: I enjoy creating visually appealing charts and graphs that communicate complex information effectively.
 - 🧠 Curious learner: I'm always excited to explore new techniques and tools in the ever-evolving world of data analytics.
 
-## 💪🏻 Skill 💪🏻
+## 💪🏻 Skills 
 
 - **Data Analysis:** Proficient in using Python and SQL to perform data manipulation,cleaning and analysis tasks.
 - **Data Visualization:** Skilled in creating interactive visualizations using tools and libraries like Tableau, Matplotlib and Seaborn.
