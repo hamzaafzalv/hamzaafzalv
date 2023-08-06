@@ -1,8 +1,8 @@
-# Data Analyst Bio
+# Hamza Afzal | Data Analyst
 
-![Profile Picture](link_to_profile_picture)
+![Profile Picture](https://media.licdn.com/dms/image/D4E16AQF8Idcz8FBNdw/profile-displaybackgroundimage-shrink_350_1400/0/1675851602657?e=1697068800&v=beta&t=iVATQtokEIkBiauYVFttrUq-MwdDse841G8ZPKsQCBY)
 
-Hey there! 👋 I'm [Your Name], a passionate and detail-oriented Data Analyst. With a strong background in data manipulation, analysis, and visualization, I love turning raw data into meaningful insights that drive informed decisions.
+Hey there! 👋 I'm Hamza, a passionate and detail-oriented Data Analyst. With a strong background in data manipulation, analysis, and visualization, I love turning raw data into meaningful insights that drive informed decisions.
 
 ## About Me
 
@@ -13,12 +13,9 @@ Hey there! 👋 I'm [Your Name], a passionate and detail-oriented Data Analyst. 
 
 ## Skills
 
-- **Data Analysis:** Proficient in using Python, R, and SQL to perform data manipulation and analysis tasks.
-- **Data Visualization:** Skilled in creating interactive visualizations using libraries like Matplotlib, Seaborn, and Plotly.
-- **Data Cleaning:** Experienced in handling messy data and transforming it into a structured format.
+- **Data Analysis:** Proficient in using Python and SQL to perform data manipulation,cleaning and analysis tasks.
+- **Data Visualization:** Skilled in creating interactive visualizations using tools and libraries like Tableau, Matplotlib and Seaborn.
 - **Statistical Analysis:** Familiar with statistical methods and hypothesis testing to derive meaningful insights.
-- **Version Control:** Proficient with Git and GitHub for collaborative projects and version control.
-- **Tools:** Comfortable with Jupyter Notebooks, pandas, NumPy, and other data analysis libraries.
 
 ## Projects
 
@@ -27,7 +24,7 @@ Hey there! 👋 I'm [Your Name], a passionate and detail-oriented Data Analyst. 
 - 📊 [Project 3](link_to_project_3): Created a dashboard using Tableau to visualize customer demographics and purchasing behavior.
 
 ## Let's Connect
-
-I'm always eager to collaborate and learn from others in the data community. Feel free to reach out to me through [LinkedIn](link_to_linkedin_profile) or [Twitter](link_to_twitter_profile). Let's exchange ideas and insights!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
+Let's exchange ideas and insights!
 
 Looking forward to exploring the data-driven world together! 🚀
