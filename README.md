@@ -6,10 +6,10 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 
 ## 👋🏻 About Me 
 
-- 📊 Data wizard: I specialize in extracting, cleaning, and transforming data from various sources.
-- 📈 Insights explorer: I have a knack for uncovering trends, patterns, and outliers through in-depth analysis.
-- 📊 Visualization enthusiast: I enjoy creating visually appealing charts and graphs that communicate complex information effectively.
-- 🧠 Curious learner: I'm always excited to explore new techniques and tools in the ever-evolving world of data analytics.
+- 📊 **Data wizard**: I specialize in extracting, cleaning, and transforming data from various sources.
+- 📈 **Insights explorer**: I have a knack for uncovering trends, patterns, and outliers through in-depth analysis.
+- 📊 **Visualization enthusiast**: I enjoy creating visually appealing charts and graphs that communicate complex information effectively.
+- 🧠 **Curious learner**: I'm always excited to explore new techniques and tools in the ever-evolving world of data analytics.
 
 ## 💪🏻 Skills 
 
