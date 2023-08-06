@@ -19,7 +19,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 
 ## 📂 Projects
 
-- 📊 [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA): 
+- 📊 **1.** [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
 - 📈 [Project 2](link_to_project_2): 
 - 📊 [Project 3](link_to_project_3):
 
