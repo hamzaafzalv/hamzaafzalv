@@ -4,7 +4,7 @@
 
 Hey there! 👋 I'm Hamza, a passionate and detail-oriented Data Analyst. With a strong background in data manipulation, analysis, and visualization, I love turning raw data into meaningful insights that drive informed decisions.
 
-## About Me
+## 👋 About Me 👋
 
 - 📊 Data wizard: I specialize in extracting, cleaning, and transforming data from various sources.
 - 📈 Insights explorer: I have a knack for uncovering trends, patterns, and outliers through in-depth analysis.
