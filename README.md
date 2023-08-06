@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ My Introduction 
 
-![Profile Picture]([https://media.licdn.com/dms/image/D4E16AQF8Idcz8FBNdw/profile-displaybackgroundimage-shrink_350_1400/0/1675851602657?e=1697068800&v=beta&t=iVATQtokEIkBiauYVFttrUq-MwdDse841G8ZPKsQCBY](https://media.licdn.com/dms/image/D4D16AQEMeZ6hRcufmw/profile-displaybackgroundimage-shrink_350_1400/0/1691317807963?e=1697068800&v=beta&t=aGmTmSS4AMq2okvH1YxwxkVroFg1wkywMd0X4psh1no)
+![Profile Picture](https://media.licdn.com/dms/image/D4E16AQF8Idcz8FBNdw/profile-displaybackgroundimage-shrink_350_1400/0/1675851602657?e=1697068800&v=beta&t=iVATQtokEIkBiauYVFttrUq-MwdDse841G8ZPKsQCBY)
 
 Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a strong background in data manipulation, analysis, and visualization, I love turning raw data into meaningful insights that drive informed decisions.
 
