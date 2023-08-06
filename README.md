@@ -18,7 +18,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 - **Statistical Analysis:** Familiar with statistical methods and hypothesis testing to derive meaningful insights.
 
 ## 📂 Projects
-
+### *Click the links for more information*
 - 📊 **1.** [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
 - 📈 [Project 2](link_to_project_2): 
 - 📊 [Project 3](link_to_project_3):
