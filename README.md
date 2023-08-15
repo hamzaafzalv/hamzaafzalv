@@ -19,7 +19,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 
 ## 📂 Projects
 #### *Click the hyperlinks for more information*
-- 📊 [Blossom Flower Shop Data Analysis and Inventory Management using Statistics](https://github.com/hamzaafzalv/Blossom_Flower_Shop):
+- 📊 [Blossom Flower Shop Data Analysis and Inventory Management using Statistics](https://github.com/hamzaafzalv/Blossom_Flower_Shop)
 - 📊 [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
 - 📈 [Your Perfume Shop Data Analysis](https://github.com/hamzaafzalv/your_perfume_shop)
 
