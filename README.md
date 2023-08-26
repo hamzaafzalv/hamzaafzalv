@@ -23,6 +23,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 - 📊 [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
 - 📈 [Your Perfume Shop Data Analysis](https://github.com/hamzaafzalv/your_perfume_shop)
 - 🌐[Exhibition Data Web Scrapping](https://github.com/hamzaafzalv/Exhibition_Web_Scrapping)
+- 🏘️[Nashville Housing Data Cleaning using SQL](https://github.com/hamzaafzalv/SQL_Data_Cleaning_Nashville_Housing)
 
 ## 🤝🏻 Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
