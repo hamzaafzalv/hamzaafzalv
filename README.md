@@ -22,6 +22,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 - 📊 [Blossom Flower Shop Data Analysis and Inventory Management using Statistics](https://github.com/hamzaafzalv/Blossom_Flower_Shop)
 - 📊 [Flight Punctuality Exploratory Data Analysis](https://github.com/hamzaafzalv/Flight_Punctuality_EDA)
 - 📈 [Your Perfume Shop Data Analysis](https://github.com/hamzaafzalv/your_perfume_shop)
+- 🌐[Exhibition Data Web Scrapping](https://github.com/hamzaafzalv/Exhibition_Web_Scrapping)
 
 ## 🤝🏻 Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
