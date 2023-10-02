@@ -27,7 +27,7 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 
 ## 🤝🏻 Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
-#### *You can find my CV/Resume [here](https://drive.google.com/file/d/19iCHiiEFhYFppNkKQNA_sSMmXVAgOqf6/view?usp=sharing)*
+#### *[You can find my CV/Resume here](https://drive.google.com/file/d/19iCHiiEFhYFppNkKQNA_sSMmXVAgOqf6/view?usp=sharing)*
 Let's exchange ideas and insights!
 
 Looking forward to exploring the data-driven world together! 🚀
