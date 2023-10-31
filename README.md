@@ -24,6 +24,8 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 - 📈 [Your Perfume Shop Data Analysis](https://github.com/hamzaafzalv/your_perfume_shop)
 - 🌐[Exhibition Data Web Scrapping](https://github.com/hamzaafzalv/Exhibition_Web_Scrapping)
 - 🏘️[Nashville Housing Data Cleaning using SQL](https://github.com/hamzaafzalv/SQL_Data_Cleaning_Nashville_Housing)
+- ✈️[British Airways KPI Dashboard](https://github.com/hamzaafzalv/British_Airways_KPI_Dashboard)
+- 🚅[Deutsche Bahn Facts and Figures Dashboard](https://github.com/hamzaafzalv/Deutsche_Bahn_Dashboard)
 
 ## 🤝🏻 Let's Connect
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1). 
