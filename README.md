@@ -28,7 +28,10 @@ Hey there! I'm Hamza, a passionate and detail-oriented Data Analyst. With a stro
 - 🚅[Deutsche Bahn Facts and Figures Dashboard](https://github.com/hamzaafzalv/Deutsche_Bahn_Dashboard)
 
 ## 🤝🏻 Let's Connect
-Feel free to reach out to me through [Email](emailto:hamza26afzal@gmail.com), [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1) 
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/) or [Twitter](https://twitter.com/hamzaav1).
+
+Email me at: hamza26afzal@gmail.com
+
 #### *[You can find my CV/Resume here](https://drive.google.com/file/d/19iCHiiEFhYFppNkKQNA_sSMmXVAgOqf6/view?usp=sharing)*
 Let's exchange ideas and insights!
 
