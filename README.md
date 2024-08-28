@@ -30,7 +30,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/hamz
 
 Email me at: hamza26afzal@gmail.com
 
-#### *[You can find my CV/Resume here](https://drive.google.com/file/d/1leCbtl5WmBdL8472A8VCjgvPLnRWtebd/view?usp=sharing)*
+#### *[You can find my CV/Resume here](https://drive.google.com/file/d/1WW6_0JhaayK6coSmjiN7xOrTf-gs24ND/view?usp=sharing)*
 Let's exchange ideas and insights!
 
 Looking forward to exploring the data-driven world together! 🚀
